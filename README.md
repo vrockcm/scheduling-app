@@ -10,9 +10,9 @@ Edit your working schedule and just give your link to a student!
 
 There is a some dummy data in the database file in server directory.
 
-## Available Scripts
+![image](https://github.com/vrockcm/scheduling-app/assets/18493432/d5726978-fe46-44cc-aac9-bf1054a70a90)
 
-In the project directory, you can run:
+![Capture](https://github.com/vrockcm/scheduling-app/assets/18493432/3bed9dce-ba50-4b26-94ee-8a98f7029687)
 
 ## Start the Client Server
 
