@@ -44,7 +44,7 @@ const Dashboard = () => {
         <Block padding={"20px"}>
           <SplitItemsWithSpaceContainer>
             <HeadingLarge $style={{ textAlign: "center" }}>
-              All Coach Bookings
+              All Booked Sessions
             </HeadingLarge>
             <div>
               <Button
@@ -54,7 +54,7 @@ const Dashboard = () => {
                   navigate(`/coaches/history`);
                 }}
               >
-                History/Booking Rating
+                History/Ratings
               </Button>
             </div>
           </SplitItemsWithSpaceContainer>

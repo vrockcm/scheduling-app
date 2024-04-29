@@ -18,7 +18,6 @@ function App() {
           <Route path="/coaches/profile/:id/edit" element={<EditProfile />} />
           <Route path="/coaches/profile/:id" element={<Profile />} />
           <Route path="/coaches/history" element={<History />} />
-          {/* <Route path="/coaches/:id/bookings/" element={<CoachHistory />} /> */}
           <Route path="/book/:user" element={<BookCoach />} />
         </Routes>
       </BrowserRouter>
