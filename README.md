@@ -1,6 +1,14 @@
 # Getting Started with Scheduling App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Scheduling App where Students can schedule sessions with Coaches.
+
+Head to [http://localhost:3000/coaches/dashboard] http://localhost:3000/coaches/dashboard for the Coach Scheduler.
+
+Just give your link to a student.
+
+[http://localhost:3000/book/{:id}] http://localhost:3000/book/{:id}. Replace :id with 1 or 2.
+
+There is a some dummy data in the database file in server directory.
 
 ## Available Scripts
 
@@ -35,3 +43,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `node index.js`
 
 This runs on port 9000
+
+## Made with <3 using
+
+- React
+- Base Web
+- Node.js
