@@ -54,7 +54,7 @@ const Dashboard = () => {
                   navigate(`/coaches/history`);
                 }}
               >
-                History
+                History/Booking Rating
               </Button>
             </div>
           </SplitItemsWithSpaceContainer>

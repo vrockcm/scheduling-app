@@ -24,7 +24,7 @@ export default function AppHeader({ student }) {
           <>
             <NavigationList $align={ALIGN.right}>
               <NavigationItem>
-                <Link href="/coaches/dashboard">Home</Link>
+                <Link href="/">Home</Link>
               </NavigationItem>
             </NavigationList>
             <NavigationList $align={ALIGN.right}>

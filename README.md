@@ -2,11 +2,11 @@
 
 Scheduling App where Students can schedule sessions with Coaches.
 
-Head to [http://localhost:3000/coaches/dashboard] http://localhost:3000/coaches/dashboard for the Coach Scheduler.
+Head to [http://localhost:3000](http://localhost:3000) to access the Coach Booking Manager.
 
-Just give your link to a student.
+Edit your working schedule and just give your link to a student!
 
-[http://localhost:3000/book/{:id}] http://localhost:3000/book/{:id}. Replace :id with 1 or 2.
+[http://localhost:3000/book/{:id}](http://localhost:3000/book/{:id}). Replace :id with 1 or 2.
 
 There is a some dummy data in the database file in server directory.
 
